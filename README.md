@@ -1,3 +1,4 @@
 ### Hi there 👋
-**WORK IN PROGRESS!** <br>
-Learning Java & Kotlin - (future) Android dev 📱
+<br>
+Learning Java & Kotlin - (future) Android dev 📱<br>
+Passionate about cooking 🍜🥞, sci-fi 🛸, and cats 🐈‍⬛ 
